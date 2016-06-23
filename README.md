@@ -10,8 +10,8 @@
   - __I.III__ - FUNÇÕES INVERSAS. - __OK__
   - __I.IV__ - COMPOSIÇÃO DE FUNÇÕES. - __OK__
   - __I.V__ - FUNÇÕES TRIGONOMÉTRICAS. - __OK__
-#
-### *Documentação*
+
+#### *Documentação*
 * Todos Temas abordados em Cálculo I .
 
 ### *Licença*
