@@ -5,11 +5,11 @@
  __Prof. Dra. PhD. Adriana Silveira Vieira__ 
 ### *Sumário* 
 * __I - FUNÇÕES DE UMA VARIÁVEL__
-  - __I.I__ - FUNÇÕES: VALOR ABSOLUTO OU MODULAR. - __OK__
-  - __I.II__ - FUNÇÕES DEFINIDAS POR PARTES. - __OK__
-  - __I.III__ - FUNÇÕES INVERSAS. - __OK__
-  - __I.IV__ - COMPOSIÇÃO DE FUNÇÕES. - __OK__
-  - __I.V__ - FUNÇÕES TRIGONOMÉTRICAS. - __OK__
+  - __I.I__ - FUNÇÕES: VALOR ABSOLUTO OU MODULAR. - __OK__.
+  - __I.II__ - FUNÇÕES DEFINIDAS POR PARTES. - __OK__.
+  - __I.III__ - FUNÇÕES INVERSAS. - __OK__.
+  - __I.IV__ - COMPOSIÇÃO DE FUNÇÕES. - __OK__.
+  - __I.V__ - FUNÇÕES TRIGONOMÉTRICAS. - __Em Andamento__.
 
 #### *Documentação*
 * Todos Temas abordados em Cálculo I .
