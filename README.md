@@ -1,7 +1,7 @@
 
 ![Cálculo-I](http://www.estudar.info/wp-content/uploads/2015/02/disciplina-pre-calculo-matematica-para-engenharia-e1425152065989.jpg)
 
-# Cálculo I - UFMS - Coxim/MS
+# Cálculo I - UFMS - Coxim/MS.
  __Prof. Dra. PhD. Adriana Silveira Vieira__ 
 ### *Sumário* 
 * __I - FUNÇÕES DE UMA VARIÁVEL__
@@ -12,8 +12,8 @@
   - __I.V__ - FUNÇÕES TRIGONOMÉTRICAS. - __Em Andamento__.
 
 #### *Documentação*
-* Todos Temas abordados em Cálculo I .
+* Todos Temas abordados em Cálculo I.
 
 ### *Licença*
-* UFMS-Coxim/MS
+* UFMS-Coxim/MS.
 
