@@ -2,7 +2,7 @@
 ![Cálculo-I](http://www.estudar.info/wp-content/uploads/2015/02/disciplina-pre-calculo-matematica-para-engenharia-e1425152065989.jpg)
 
 # Cálculo I - UFMS - Coxim/MS
- __Professora: Adriana__ 
+ __Prof. Dra. PhD. Adriana Silveira Vieira__ 
 ### *Sumário* 
 * __I - FUNÇÕES DE UMA VARIÁVEL__
   - __I.I__ - FUNÇÕES: VALOR ABSOLUTO OU MODULAR. - __OK__
