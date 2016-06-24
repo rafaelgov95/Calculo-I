@@ -7,9 +7,9 @@
 * __I - FUNÇÕES DE UMA VARIÁVEL__
   - __I.I__ - FUNÇÕES: VALOR ABSOLUTO OU MODULAR. - __OK__
   - __I.II__ - FUNÇÕES DEFINIDAS POR PARTES. - __OK__
-  - __I.III__ - FUNÇÕES INVERSAS. -__Em Andamento__
+  - __I.III__ - FUNÇÕES INVERSAS. -__Em Estudo__
   - __I.IV__ - COMPOSIÇÃO DE FUNÇÕES. - __OK__
-  - __I.V__ - FUNÇÕES TRIGONOMÉTRICAS. - __Em Andamento__
+  - __I.V__ - FUNÇÕES TRIGONOMÉTRICAS. - __NOT__
 
 #### *Documentação*
 * Todos Temas abordados em Cálculo I.
