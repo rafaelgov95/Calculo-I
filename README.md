@@ -15,5 +15,4 @@
 * Todos Temas abordados em Cálculo I.
 
 ### *Licença*
-* UFMS-Coxim/MS
-
+* UFMS-Coxim/MS.
